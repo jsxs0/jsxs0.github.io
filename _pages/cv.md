@@ -11,36 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech in Computer Science and Engineering, GITAM University Hyderabad, 2022
+<!---
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: AI/Back-end engineer
+  * Eftax Co., Ltd. Osaka, Japan
+  * Duties included: Design and deliver software and tools, Part of the core back-end team, Design, develop, test, deploy.
+  [//]: # (* Supervisor: Professor Git)
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2020: Machine Learning Intern
+  * Soundtracktor IvS, Dragør, Denmark
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Developed a machine learning recommendation engine prototype, Develop tools, Developed novel machine learning models and algorithms
+  [//]: # (* Supervisor: Professor Hub)
+  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages
+  * Fluent in C++, CLIPS, Python, Lua
+  * Familiar with Java, VHDL
+* Libraries: Pytorch, NumPy, TensorFlow, Scikit-Learn, Tensor Toolbox  
+* Software Skills: git, MATLAB, GNU Octave, AutoCAD, LATEX, CMake, Micro-Cap, Jenkins, Phabricator
+* Web Development: HTML, CSS, JavaScript, PHP, Laravel (PHP), Django, MySQL, PostgreSQL
+  
+  
+<!---  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Talks
 ======
