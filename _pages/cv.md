@@ -22,6 +22,10 @@ Work experience
 * Summer 2020: Machine Learning Intern
   * Soundtracktor IvS, Dragør, Denmark
   * Duties included: Merging pull requests
+
+*  Autumn 2019: Undergraduate Researcher
+  * International Institute of Information Technology Hyderabad.
+  * Duties included: Creating a computer software which renders text from one Indian language into another
   
 Skills
 ======
