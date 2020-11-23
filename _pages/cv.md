@@ -12,10 +12,6 @@ redirect_from:
 Education
 ======
 * B.Tech in Computer Science and Engineering, GITAM University Hyderabad, 2022
-<!---
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
--->
 
 Work experience
 ======
