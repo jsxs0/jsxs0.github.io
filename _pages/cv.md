@@ -22,17 +22,10 @@ Work experience
 * Summer 2020: AI/Back-end engineer
   * Eftax Co., Ltd. Osaka, Japan
   * Duties included: Design and deliver software and tools, Part of the core back-end team, Design, develop, test, deploy.
-  [//]: # (* Supervisor: Professor Git)
 
 * Summer 2020: Machine Learning Intern
   * Soundtracktor IvS, Dragør, Denmark
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Developed a machine learning recommendation engine prototype, Develop tools, Developed novel machine learning models and algorithms
-  [//]: # (* Supervisor: Professor Hub)
   
 Skills
 ======
