@@ -25,7 +25,7 @@ Work experience
 
 *  Autumn 2019: Undergraduate Researcher
   * International Institute of Information Technology Hyderabad.
-  * Duties included: Creating a computer software which renders text from one Indian language into another
+   * Duties included: Creating a computer software which renders text from one Indian language into another
   
 Skills
 ======
